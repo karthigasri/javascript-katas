@@ -8,7 +8,7 @@ This project provides a boilerplate and guide for exercising your javascript ski
 4. Install the npm modules.
 5. Practice some Labs.
 6. Certain steps to do before pushing code to your barnch on github is, <br>
-    git add .
+    git add . <br>
     git commit -am "Message about app"
 7. Push code to your branch on github by using the command, <br>
     git push
