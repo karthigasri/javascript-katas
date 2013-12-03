@@ -16,11 +16,8 @@ This project provides a boilerplate and guide for exercising your javascript ski
    git pull
 
 ## JQuery Labs
-<a href="public/jquery/lab1/README.md"> 
-	- Lab 1: Create a new tool.</a></br>
-<a href="public/jquery/lab2/README.md">
-	- Lab 2: Subscribe to create & destroy events lab.</a></br>
-<a href="public/jquery/lab3/README.md">
-	- Lab 3: Use utility functions.</a>
+<a href="public/jquery/lab1/README.md"> - Lab 1: Create a new tool.</a><br>
+<a href="public/jquery/lab2/README.md"> - Lab 2: Subscribe to create & destroy events lab.</a><br>
+<a href="public/jquery/lab3/README.md"> - Lab 3: Use utility functions.</a>
 
 ## Change Log
