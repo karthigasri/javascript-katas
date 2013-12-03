@@ -1,6 +1,6 @@
 ## What you will Learn?
 
-This Lab-1 teaches you how to create a new tool.
+- This Lab-1 teaches you how to create a new tool.
 
 ## Instructions:
 
